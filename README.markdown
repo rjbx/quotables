@@ -1,4 +1,4 @@
-# Random Quote Machine
+# Potent Quotables
  A Pen created at CodePen.io at [https://codepen.io/rjbx/pen/BXxbbb](https://codepen.io/rjbx/pen/BXxbbb).
  
 ## Attribution
